@@ -1,1 +1,1 @@
-# SLDS-Switching-Latent-Dynamical-Systems-
+# SLDS (Switching-Latent-Dynamical-Systems)
