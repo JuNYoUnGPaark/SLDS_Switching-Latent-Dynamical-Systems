@@ -24,22 +24,22 @@
 
   <span style="margin-right: 8px;">
     <a href="https://wheat-range-dd8.notion.site/Novelty-2b7ccff627fb8045be9fc1e93202afe6" target="_blank">
-      <img src="https://img.shields.io/badge/Novelty_분석-111111?style=for-the-badge&logo=notion&logoColor=white" /></a>
+      <img src="https://img.shields.io/badge/Novelty_분석-14213D?style=for-the-badge&logo=notion&logoColor=white" /></a>
   </span>
 
   <span style="margin-right: 8px;">
     <a href="https://wheat-range-dd8.notion.site/Base-Knowledge-2b7ccff627fb8000923ee5cc156e0cfd" target="_blank">
-      <img src="https://img.shields.io/badge/Base_Knowledge-111111?style=for-the-badge&logo=notion&logoColor=white" /></a>
+      <img src="https://img.shields.io/badge/Base_Knowledge-14213D?style=for-the-badge&logo=notion&logoColor=white" /></a>
   </span>
 
   <span style="margin-right: 8px;">
     <a href="https://wheat-range-dd8.notion.site/Code-2b7ccff627fb80af9cc0daae0c469fa4" target="_blank">
-      <img src="https://img.shields.io/badge/Code_분석-111111?style=for-the-badge&logo=notion&logoColor=white" /></a>
+      <img src="https://img.shields.io/badge/Code_분석-14213D?style=for-the-badge&logo=notion&logoColor=white" /></a>
   </span>
 
   <span>
     <a href="https://wheat-range-dd8.notion.site/Experiment-Results-2b7ccff627fb804492dff3b3f67b0905" target="_blank">
-      <img src="https://img.shields.io/badge/Experiment_Results-111111?style=for-the-badge&logo=notion&logoColor=white" /></a>
+      <img src="https://img.shields.io/badge/Experiment_Results-14213D?style=for-the-badge&logo=notion&logoColor=white" /></a>
   </span>
 
 </p>
